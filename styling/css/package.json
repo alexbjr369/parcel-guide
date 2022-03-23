@@ -1,0 +1,15 @@
+{
+  "name": "yarn-guide-css",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "clean": "shx rm -rf dist && shx mkdir dist",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2",
+    "postcss": "^8.2.14",
+    "postcss-nested": "^5.0.6"
+  }
+}

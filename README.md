@@ -1,1 +1,3 @@
-# parcel-guide
+# Parcel Guide
+
+A compilation of **Parcel** configurations.
